@@ -45,16 +45,6 @@
 <img height="137px" width="440px" src="https://github-readme-stats.vercel.app/api?username=BEROMEIRO&hide_title=true&hide_border=true&line_height=21" />
 <img height="137px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEROMEIRO&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
-</p>
 
-<p align="center">
-<img height="200px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=BEROMEIRO&style=--border-radius:10px" />
-</p>
-
-<p align="center">
-<a href="https://github.com/BEROMEIRO">
-<img style="border-radius:20px" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEROMEIRO&height=80&padding=20"/>
-</a>
-</p>
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=BEROMEIRO'></p>
