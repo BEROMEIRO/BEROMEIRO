@@ -32,7 +32,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?logo=visual-studio-code)
 
 
