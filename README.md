@@ -6,7 +6,7 @@
 <a href="mailto:gabriel_serafin@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
 
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
+## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
 
 🔭 &nbsp; Atualmente estou trabalhando em **um aplicativo monitoramento e orientação de técnicos** \
 🌱 &nbsp; Estou aprendendo **Front-end & APIs** \
