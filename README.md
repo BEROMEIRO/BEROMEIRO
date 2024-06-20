@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Front-end iniciante.</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gabriel-romeiro-3209b5230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gabriel-romeiro-3209b5230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:gabriel_serafin@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0077B5.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
 
 
