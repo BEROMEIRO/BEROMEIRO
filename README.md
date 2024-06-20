@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-romeiro-3209b5230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gabriel_serafin@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-D14836?style=flat&logo=Outlook&logoColor=white"/></a>
+<a href="mailto:gabriel_serafin@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
 
 
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
