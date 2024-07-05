@@ -10,7 +10,7 @@
 
 🔭 &nbsp; Atualmente estou trabalhando em **um aplicativo monitoramento e orientação de técnicos** \
 🌱 &nbsp; Estou aprendendo **Front-end & APIs** \
-👯 &nbsp; Busco colaborar em **desenvolvimento front-end** \
+👯 &nbsp; Busco colaborar em **Desenvolvimento front-end** \
 🤝 &nbsp; Preciso de ajuda com **qualquer coisa relacionada a Backend/APIs** \
 📫 &nbsp; Como me contatar: **gabriel_serafin@outlook.com.br** \
 
