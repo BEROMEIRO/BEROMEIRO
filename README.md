@@ -8,7 +8,7 @@
 
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
 
-🔭 &nbsp; Atualmente estou trabalhando em **um aplicativo monitoramento e orientação de técnicos** \
+🔭 &nbsp; Atualmente estou trabalhando em **um aplicativo monitoramento e orientação de técnicos** com posições geográficas \
 🌱 &nbsp; Estou aprendendo **Front-end & APIs** \
 👯 &nbsp; Busco colaborar em **Desenvolvimento front-end** \
 🤝 &nbsp; Preciso de ajuda com **qualquer coisa relacionada a Backend/APIs** \
