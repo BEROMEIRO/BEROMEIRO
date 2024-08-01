@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou BEROMEIRO</h1>
-<h3 align="center">Desenvolvedor Front-end iniciante.</h3>
+<h3 align="center">Desenvolvedor Front-end iniciante!</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-romeiro-3209b5230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
