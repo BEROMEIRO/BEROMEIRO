@@ -15,7 +15,7 @@
 📫 &nbsp; Como me contatar: **gabriel_serafin@outlook.com.br** \
 
 
-<div align="right">
+<div align="Center">
 
 ### Minhas Habilidades atualmente <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/writing_hand.gif" width="20px"/>
 
@@ -43,7 +43,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 
 </div>
