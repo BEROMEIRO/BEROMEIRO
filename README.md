@@ -6,6 +6,8 @@
 <a href="mailto:gabriel_serafin@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0077B5.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white"/></a>
 
 
+
+
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
 
 🔭 &nbsp; Atualmente estou trabalhando em **um aplicativo monitoramento e orientação de técnicos** com posições geográficas \
