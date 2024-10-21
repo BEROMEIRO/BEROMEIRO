@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou BEROMEIRO</h1>
-<h3 align="center">Desenvolvedor Front-end iniciante!</h3>
+<h3 align="center">Desenvolvedor Front-end e Desenvolvedor de aplicações!</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-romeiro-3209b5230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
 
 🔭 &nbsp; Atualmente estou trabalhando em **um aplicativo monitoramento e orientação de técnicos** com posições geográficas \
-🌱 &nbsp; Estou aprendendo **Front-end & APIs** \
+🌱 &nbsp; Estou aprendendo **Front-end & APIs, Conexões de Dockers e Javascript** \
 👯 &nbsp; Busco colaborar em **Desenvolvimento front-end** \
 🤝 &nbsp; Preciso de ajuda com **qualquer coisa relacionada a Backend/APIs** \
 📫 &nbsp; Como me contatar: **gabriel_serafin@outlook.com.br** \
