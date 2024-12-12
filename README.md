@@ -14,7 +14,7 @@
 🌱 &nbsp; Estou aprendendo **Front-end & APIs, Conexões de Dockers, Javascript e Python** \
 👯 &nbsp; Busco colaborar em **Desenvolvimento front-end** \
 🤝 &nbsp; Preciso de ajuda com **qualquer coisa relacionada a Backend/APIs** \
-📫 &nbsp; Como me contatar: **gabriel_serafin@outlook.com.br** \
+📫 &nbsp; Como me contatar: **gabriel_serafin1@outlook.com.br** \
 
 
 <div align="Center">
