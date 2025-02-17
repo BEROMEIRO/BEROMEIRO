@@ -12,7 +12,7 @@
 
 🔭 &nbsp; Atualmente estou trabalhando em **foco em ambiente de desenvolvimento Apple** usando Xcode \
 🌱 &nbsp; Estou aprendendo **Front-end focado em Django, APIs, Conexões de Dockers, Javascript, Python** \
-👯 &nbsp; Busco colaborar em **Desenvolvimento front-end** \
+👯 &nbsp; Busco colaborar em **Desenvolvimento front-end**   \
 🤝 &nbsp; Preciso de ajuda com **PHP, Ruby, Java** \
 📫 &nbsp; Como me contatar: **gabriel_serafin1@outlook.com.br** \
 
