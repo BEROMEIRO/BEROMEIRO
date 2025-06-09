@@ -10,7 +10,7 @@
 
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
 
-🔭 &nbsp; Atualmente estou trabalhando em **criação de Dashboards** usando Streamlit, como uma opção dinamica com APIS \
+🔭 &nbsp; Atualmente estou trabalhando em **criação de Dashboards** com APIS \
 🌱 &nbsp; Estou aprendendo **Conexões de Dockers, Javascript, Python** \
 👯 &nbsp; Busco colaborar em **Desenvolvimento front-end**   \
 🤝 &nbsp; Preciso de ajuda com **PHP, Ruby, Java** \
