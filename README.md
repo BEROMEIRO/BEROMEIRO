@@ -11,9 +11,9 @@
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
 
 🔭 &nbsp; Atualmente estou trabalhando em **criação de Dashboards** com APIS \
-🌱 &nbsp; Estou aprendendo **Conexões de Dockers, Javascript, Python** \
+🌱 &nbsp; Estou aprendendo **Postgree, PHP** \
 👯 &nbsp; Busco colaborar em **Desenvolvimento front-end**   \
-🤝 &nbsp; Preciso de ajuda com **PHP, Ruby, Java** \
+🤝 &nbsp; Preciso de ajuda com **Ruby, Java** \
 📫 &nbsp; Como me contatar: **gabriel_serafin1@outlook.com.br** \
 
 
