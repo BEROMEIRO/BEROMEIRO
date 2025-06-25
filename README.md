@@ -10,9 +10,9 @@
 
 ## <img src="./gifs/man_raising_hand.gif" width="40px"/> &nbsp;Sobre Mim
 
-🔭 &nbsp; Atualmente estou trabalhando em **criação de Dashboards** com APIS \
-🌱 &nbsp; Estou aprendendo **Postgree, PHP** \
-👯 &nbsp; Busco colaborar em **Desenvolvimento front-end**   \
+🔭 &nbsp; Atualmente estou trabalhando em **PostgreSQL + FastAPI ** \
+🌱 &nbsp; Estou me tornando um **desenvolvedor Fullstack** aprofundando conhecimentos em **PostgreSQL, Python – Usado com Django ou FastAPI e SQL** \
+👯 &nbsp; Busco colaborar em ** GraphQL **   \
 🤝 &nbsp; Preciso de ajuda com **Ruby, Java** \
 📫 &nbsp; Como me contatar: **gabriel_serafin1@outlook.com.br** \
 
