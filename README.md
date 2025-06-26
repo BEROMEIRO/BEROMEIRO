@@ -54,7 +54,7 @@
 
 <p align="center">
 <a href="https://github.com/BEROMEIRO">
-<img height="137px" width="440px" src="https://github-readme-stats.vercel.app/api?username=BEROMEIRO&hide_title=true&hide_border=true&line_height=21" />
+[<img height="137px" width="440px" src="https://github-readme-stats.vercel.app/api?username=BEROMEIRO&hide_title=true&hide_border=true&line_height=21" />](url)
 <img height="137px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BEROMEIRO&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </a>
 
