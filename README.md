@@ -14,7 +14,7 @@
 
 ##  Sobre Mim
 
-- 🔭 Atualmente focado  em  projetos com **PostgreSQL + FastAPI**
+- 🔭 Atualmente focado  em projetos com **PostgreSQL + FastAPI**
 - 🌱 Estudando para ser um **Desenvolvedor Fullstack**, aprofundando em **Python (Django, FastAPI)** e **SQL**
 - 👯 Interessado em colaborar com projetos que envolvam **GraphQL**
 - 🤝 Buscando aprender mais sobre **Ruby** e **Java**
