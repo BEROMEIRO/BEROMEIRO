@@ -18,7 +18,7 @@
 - 🌱 Estudando para ser um **Desenvolvedor Fullstack**, aprofundando em **Python (Django, FastAPI)** e **SQL**
 - 👯 Interessado em colaborar com projetos que envolvam **GraphQL**
 - 🤝 Buscando aprender mais sobre **Ruby** e **Java**
-- 📫 Contato: **gabriel_serafin1@outlook.com.br**
+- 📫 Contato: **gabriel.romeiro1310@gmail.com**
 
 ---
 
